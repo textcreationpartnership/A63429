@@ -1,0 +1,172 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A True and perfect journal of the affairs in Ireland since His Majesties arrival in that kingdom by a person of quality.</title>
+            <author>Person of quality.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63429</idno>
+            <idno type="STC">Wing T2528</idno>
+            <idno type="STC">ESTC R12153</idno>
+            <idno type="EEBO-CITATION">13799120</idno>
+            <idno type="OCLC">ocm 13799120</idno>
+            <idno type="VID">101911</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63429)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101911)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 853:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A True and perfect journal of the affairs in Ireland since His Majesties arrival in that kingdom by a person of quality.</title>
+                  <author>Person of quality.</author>
+               </titleStmt>
+               <extent>[2], 13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and are to be sold by Randal Taylor ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  War of 1689-1691.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101911:1"/>
+            <pb facs="tcp:101911:1" rendition="simple:additions"/>
+            <p>A True and Perfect JOURNAL OF THE <hi>Affairs in Ireland</hi> SINCE His MAJESTIES Arrival In that KINGDOM.</p>
+            <p>By a Perſon of Quality.</p>
+            <p>
+               <hi>LONDON:</hi> Printed, and are to be ſold by <hi>Randal Taylor,</hi> near <hi>Stationers-Hall.</hi> 1690.</p>
+         </div>
+      </front>
+      <body>
+         <div type="journal">
+            <pb facs="tcp:101911:2"/>
+            <pb n="1" facs="tcp:101911:2"/>
+            <head>THE Iriſh Journal.</head>
+            <opener>
+               <dateline>
+                  <hi>Dublin,</hi> 
+                  <date>July 17. 1690.</date>
+               </dateline>
+            </opener>
+            <p>WE received here the certain News of the King's Landing about <hi>Friday</hi> the 13th. of <hi>June.</hi> Before this a Camp had been laid out by the Iriſh about <hi>Atherdee,</hi> and King <hi>James</hi> had ordered his Army to rendezvouz there from ſeveral Parts of the Kingdom. On <hi>Monday</hi> the 16th. King <hi>James</hi> marched out of this Town to joyn them with about 6000 French Foot, moſt old Soldiers, excellently well arm'd and clad; one Regiment of theſe were Dutch, and Proteſtants, and were obſerved care<g ref="char:EOLhyphen"/>fully for fear of Deſerting. The whole Iriſh Army en<g ref="char:EOLhyphen"/>camped, made about 36000, all well clad and in good heart, both Horſe and Foot, beſides 15000 more which remain'd in Gariſons. The ſame day King <hi>James</hi> left this Town, there marched in 6000 of the Country Militia, and Colonels <hi>Luttrel</hi> and <hi>Mac Gillicuddy,</hi> as his Aſſiſtant, were left Governors.</p>
+            <p>We expected the Iriſh would have been much caſt down upon King <hi>James</hi>'s leaving this Town, and the certain News of King <hi>William</hi>'s arrival, but we found the contrary, they triumphed and rejoyced as if they had got King <hi>William</hi> in a Pound, and the Day were their own. They were aſſur'd either that the French
+<pb n="2" facs="tcp:101911:3"/>Fleet would cut off King <hi>William</hi> from <hi>England,</hi> or that an Inſurrection would be made there; for we were told that 100000 Men were ready to riſe, under the notion of Declaring for a Commonwealth: The Prote<g ref="char:EOLhyphen"/>ſtants here knew not what to think of theſe things; for they were kept as Priſoners of War, and ſuffered to know no more, nor enjoy any more than what the others pleaſed. But this the Proteſtants feared moſt, (becauſe the Iriſh ſpoke leaſt of it) that ſome deſperate Perſons had undertaken to deſtroy King <hi>William,</hi> as ſoon as he came into this Country: For we could not impute the great aſſurance of the Iriſh to any other ground than this. Some were ſo open, as to tell their Proteſtant Friends very lately, <hi>That they would be glad to go to Maſs within this Twelve Month,</hi> with ſeveral other Expreſſions of like nature.</p>
+            <p>The Proteſtants have had always an exceeding ſlen<g ref="char:EOLhyphen"/>der opinion of the Iriſh Army, however numerous or well appointed: And the Iriſh themſelves, tho better perſwaded of them, could not (we thought) raiſe their great aſſurance from their confidence in them only. Some other thing we believed they knew which we knew not: However, we perſwaded our ſelves, had <hi>Schomberg</hi> manag'd this Campagne, there would have been no other iſſue of it, than of the laſt. But when we heard the King was come, and that with a power<g ref="char:EOLhyphen"/>ful Army, we doubted not of the iſſue, if no other unexpected thing did prevent it; tho it ſince appears by ſome Letters of the Duke <hi>Tyrconnels</hi> to the Queen in <hi>France,</hi> found at <hi>Dundalk,</hi> that the Iriſh had no full Ac<g ref="char:EOLhyphen"/>count of the ſtrength of the Engliſh Army.</p>
+            <p>Our great concern in this place was, how we ſhould be preſerved from being plundered and burnt, in caſe of the Defeat of the Iriſh Army; this we thought could
+<pb n="3" facs="tcp:101911:3"/>be done only by the Engliſh purſuing the Victory cloſe, (for by a particular Providence, the Iriſh had neglected all this time to fortifie this place) or elſe by ſending a Party by Sea, to Land here at the time of the Engage<g ref="char:EOLhyphen"/>ment; neither of which, as it afterward happen'd, was done: But God alone preſerv'd us by an extraordinary Deliverance.</p>
+            <p>On <hi>Thurſday</hi> the 19th. after King <hi>James</hi> was gone to encamp, about Twelve at Noon, the Governor ordered all Perſons walking the Streets without Swords or Bayo<g ref="char:EOLhyphen"/>nets, which was the Badge of Proteſtants, to be taken up and ſecured in ſeveral Parades. At Night he pickt out whom he thought fit, and ſent them to ſeveral Pri<g ref="char:EOLhyphen"/>ſons, where they were conſiderably incommoded.</p>
+            <p>After this follow'd a Proclamation, <hi>That not above Five Proteſtants ſhould meet in any place above the Fa<g ref="char:EOLhyphen"/>mily, on pain of Death;</hi> by which we were from that time ſhut out from our Churches, which by an extra<g ref="char:EOLhyphen"/>ordinary Providence we had enjoyed all theſe times (except <hi>Chriſt-Church.</hi>) Moſt of them were frequented twice every day at Prayers. The Church-men, who remain'd with us, tho they had loſt all their Subſiſtance by the Iriſh Parliament, except what People volunta<g ref="char:EOLhyphen"/>rily contributed, acquitted themſelves with a great deal of Zeal and Diligence, being particularly influenc'd by the Biſhop of <hi>Meath,</hi> and Dr. <hi>King,</hi> Dean of S. <hi>Patricks,</hi> who have been the Bulwark of the Proteſtants in theſe ſad times.</p>
+            <p>On <hi>Tueſday</hi> the 24th. Dr. <hi>King</hi> was clapt up in the Caſtle, and many other of the principal Proteſtants in the Colledg (which was now a Gariſon) and other pub<g ref="char:EOLhyphen"/>lick Places. The <hi>Galway</hi> Proteſtants being about 200, (theſe were they of Sir <hi>Thomas Southwell</hi>'s Party lately brought up hither, in order to be exchanged) were
+<pb n="4" facs="tcp:101911:4"/>removed from <hi>White Friars</hi> to the <hi>Round Church,</hi> and all the <hi>Newgate</hi> Priſoners were put to them, where they were near ſtifled. The Priſoners of War were brought from <hi>Kilmainham</hi> to S. <hi>John</hi>'s <hi>Church:</hi> Our publick Con<g ref="char:EOLhyphen"/>tributions, which hitherto had been very liberal every <hi>Lord</hi>'s <hi>Day,</hi> to their Relief, were now intercepted, and the Poor began to ſuffer much; few Proteſtants daring to walk the Streets.</p>
+            <p>On <hi>Saturday</hi> the 21ſt. we heard the Iriſh Army re<g ref="char:EOLhyphen"/>treated, and the Engliſh were come towards <hi>Droghedah;</hi> we knew King <hi>James</hi>'s deſign was to avoid a Battel as much as he could, and to have walked the Engliſh Ar<g ref="char:EOLhyphen"/>my along the <hi>Boyn</hi> River, and ſo croſs the Country to <hi>Limerick;</hi> but this day we were told from the Camp, that the Enemy ſeem'd to preſs towards <hi>Dublin,</hi> and King <hi>James</hi> was reſolved to defend it, and that there<g ref="char:EOLhyphen"/>fore they thought he could not be able to keep off a Battle above Ten Days.</p>
+            <p>On <hi>Sunday</hi> the Iriſh came on this ſide the <hi>Boyne;</hi> and King <hi>James,</hi> as it ſhould ſeem, diſtruſting the iſſue, Sir <hi>Pat. Trant,</hi> Firſt Commiſſioner of the Revenue, and another Gentleman, were ordered to go from hence on <hi>Monday</hi> Morning to <hi>Waterford</hi> to prepare Ships.</p>
+            <p>On <hi>Monday</hi> the laſt of <hi>June,</hi> the Engliſh Army hav<g ref="char:EOLhyphen"/>ing had very little Reſt or Victuals, drew to the <hi>Boyne;</hi> Lieutenant General <hi>Dowglas</hi>'s Horſe were ordered to poſt themſelves at a Ford near <hi>Droghedah,</hi> upon a riſing Ground, over againſt a Battery of the Iriſh of Six Guns, guarded by a Party of their Horſe. Here the Engliſh ſtood the ſhot of the Enemy, every Man on foot by his Horſe ſeveral hours, while there paſs'd 200 Shot, the King in the mean time having rid between them and the Ford, where he received his Hurt on his Shoul<g ref="char:EOLhyphen"/>der by a Canon Shot, which diſabled him the next day
+<pb n="5" facs="tcp:101911:4"/>from holding his Sword. At laſt, when the King had ſaid, <hi>Now I ſee my Men will ſtand,</hi> ſome Guns were ſent to them, upon the firſt diſcharge of which among the Iriſh Horſe, they retreated from their Battery, and ſtood farther off. The next day early, being <hi>Tueſday</hi> the 1ſt. of <hi>July,</hi> ever-memorable to this Coun<g ref="char:EOLhyphen"/>try, General <hi>Douglas</hi> was ſent with 12000 Foot and 5000 Horſe to a Ford further up the River by <hi>Slane,</hi> where had been a Battery of the Iriſh, but they were drawn off, and only 800 Dragoons guarded the Ford. The Engliſh were to go down a ſteep Hill to the Ford, and an uneven way, yet the Iriſh Dragoons only once fired and retreated to the Body of their Army, which lay towards <hi>Duleek;</hi> mean time the King, with the reſt of the Engliſh Army came to the Ford where <hi>Douglas</hi> was poſted the Day before, near <hi>Drogheda</hi> (which at this time had a Gariſon of 800 Iriſh.) Duke <hi>Schomberg</hi> headed the Dutch Foot-Guards, and the King the <hi>Eniſ<g ref="char:EOLhyphen"/>killen</hi> Horſe, telling them, They ſhould be his Guards that day. Some of the Iriſh Horſe oppos'd the Dutch Foot, who fought up to the middle in water, and were almoſt born down, before ſome Horſe (which they long call'd for) could come up to their relief: In paſſing this Ford Mr. <hi>Walker</hi> of <hi>Derry</hi> was killed. Be<g ref="char:EOLhyphen"/>ing paſt the Ford, they met ſtill a vigorous Oppoſition; and here Duke <hi>Schomberg</hi> advancing too far among the thickeſt of the Enemy, was killed, and now lies in S. <hi>Patricks</hi> Church, in order to be carried to <hi>Weſt<g ref="char:EOLhyphen"/>minſter.</hi> The King with the Horſe (himſelf engaging in the thickeſt) met the like oppoſition. The Daniſh Horſe once gave way, but the King went himſelf, and brought them up again. Of the Iriſh, King <hi>James</hi>'s Horſe and Foot-Guards principally maintain'd this Op<g ref="char:EOLhyphen"/>poſition, and ſuffer'd much; King <hi>James</hi> himſelf not en<g ref="char:EOLhyphen"/>gaging, but ſtanding on a riſing Ground.</p>
+            <pb n="6" facs="tcp:101911:5"/>
+            <p>When the <hi>Engliſh</hi> had fully gain'd the Ford, the Iriſh retreated to the reſt of their Army by <hi>Duleek;</hi> and the Engliſh drew up on tother ſide the Ford. It muſt be noted, that on <hi>Dublin</hi> ſide of the River, be<g ref="char:EOLhyphen"/>tween the two Fords, <hi>viz. Douglas</hi>'s Ford, and the King's Ford, there was a Hill three Miles long, reach<g ref="char:EOLhyphen"/>ing from the River towards <hi>Dublin,</hi> at the end of which, next <hi>Dublin</hi> ſtands <hi>Duleek,</hi> where the Body of the Iriſh was poſted; ſo that the Hill was be<g ref="char:EOLhyphen"/>tween the two Lines of the Engliſh Army; while the King was paſſing his Ford, <hi>Douglas</hi> march'd towards the Iriſh Army; a Line of the Iriſh marching all the way even with them; at laſt, he receiv'd Orders to engage them at a place where he could come in only with his Horſe, which alone, put the whole Iriſh Ar<g ref="char:EOLhyphen"/>my to flight, ſo that before the King's Line could get up to them, they had little to do but purſue. How<g ref="char:EOLhyphen"/>ever, the Iriſh made a very orderly retreat, manag'd chiefly by the Iriſh Horſe, and the French Foot, the Engliſh purſuing them till they came to a Paſs, where their wearineſs, and the Night made them willing to leave them, and retreat to their Camp at <hi>Duleek,</hi> where the King and they, lay that Night without Tents.</p>
+            <p>Now as to us in this place, we were waken'd very early this <hi>Tueſday</hi> Morning by an Alarm, and the News that there wou'd be a Battel: The Gates were kept ſtrictly guarded, and the Proteſtants kept their Houſes: The Iſſue we expected with the greateſt apprehenſions. Several reports were ſpread abroad every hour; one while that the French Fleet was in our Bay; ano<g ref="char:EOLhyphen"/>ther, that a French Expreſs was come from <hi>Waterford,</hi> with the News of taking the Iſle of <hi>Wight</hi> by the <hi>French,</hi> and of their being gon to <hi>Dover;</hi> then, that
+<pb n="7" facs="tcp:101911:5"/>the Engliſh Right Wing was quite routed; then, that the Prince of <hi>Orange</hi> was taken Priſoner; but at Five that Afternoon, ſome that had made their eſcape on tired Horſes, told us, the Iriſh were much worſted; and others at Six, that they were totally defeated; from hence, till one that Night, all the Entries of the Town were filled with duſty, wounded, and tired Soldiers, and Carriages perpetually coming in. We ſee ſeveral of King <hi>James</hi>'s Horſe Guards coming in ſtrag<g ref="char:EOLhyphen"/>ling, without Piſtols, or Swords, and could not tell what was become of himſelf.</p>
+            <p>Near 10 that Night, he came in, with about 200 Horſe, all in diſorder: We concluded now, that it was a total rout, and that the Enemy were juſt ready to come into Town; but were greatly ſurprized, when an hour or two after, we heard the whole Bo<g ref="char:EOLhyphen"/>dy of the <hi>Iriſh</hi> Horſe coming in, in very good order, with Kettle Drums, Haut-boys, and Trumpets; and early the next Morning, the French, and a great Par<g ref="char:EOLhyphen"/>ty of Iriſh Foot. Theſe being a little, reſted, March<g ref="char:EOLhyphen"/>ed out again to meet the Enemy, which were ſuppo<g ref="char:EOLhyphen"/>ſed to draw nigh.</p>
+            <p>At Five this Morning, being Wedneſday the 2d. of <hi>July,</hi> King <hi>James</hi> having ſent for the Iriſh Lord Mayor, and ſome Principal Perſons to the Caſtle; told them, that he found all things againſt him; that in <hi>England</hi> he had an Army which would have fought, but they proved falſe and deſerted him; that here he had an Army which was Loyal enough, but would not ſtand by him: He was now neceſſitated to provide for his ſafety, and that they ſhould make the beſt terms for themſelves that they could. He told his menial Ser<g ref="char:EOLhyphen"/>vants,
+<pb n="8" facs="tcp:101911:6"/>that he ſhould have now no further occaſion to keep ſuch a Court as he had done, and that there<g ref="char:EOLhyphen"/>fore they were at liberty to diſpoſe of themſelves: He deſir'd them all to be kind to the Proteſtants, and not to injure them or this City; for tho he quitted it, he did not quit his Intereſt in it; and ſo with two or three in Company, he went to <hi>Bray,</hi> and along by the Sea to <hi>Waterford;</hi> having appointed his Carriages to meet him another way. We hear he did not ſleep till he got on Ship-board; and having been once driven in again, is ſince clear gon off.</p>
+            <p>All this day, being <hi>Wedneſday,</hi> we ſee nothing in this Town, but Officers and Carriages; and the Prin<g ref="char:EOLhyphen"/>cipal Perſons of the Town, their Wives and Families going away; others coming in duſty and weary, and getting away as faſt as they could; the Gates were ſtill kept by the Militia, and the Caſtle by 250 of the Governors Foot Soldiers, who ſtill threatned that be<g ref="char:EOLhyphen"/>fore they left the Town, they would burn and plun<g ref="char:EOLhyphen"/>der us. This of a long time had been their talk, tho King <hi>James</hi> ſaid, it was a Report rais'd by the Proteſtants, to make him odious: Yet ſome Iriſh Per<g ref="char:EOLhyphen"/>ſons of note, adviſed their Proteſtant Friends a few days before this, to leave this Town, becauſe they wou'd not be ſafe here.</p>
+            <p>We knew not what to think of our ſelves, but hop'd the Engliſh were ſo near as to prevent this miſchief; but about four in the Afternoon, inſtead of them, we perceiv'd the Iriſh Horſe, which were drawn out in the Morning, and which we hoped had been quite gon, entring into Town, followed by the French and Iriſh Foot in a full Body; preſently a buz ran
+<pb n="9" facs="tcp:101911:6"/>through the Town, that it was going to be burnt; and the Roman Catholicks, who had fled for retreat into Proteſtants Houſes, began now to look briskly on thoſe that had harbour'd them; for all this time we knew nothing of what King <hi>James</hi> had ſaid in the Morning. But it pleas'd God to deliver us ſoon from theſe fears; for all theſe Forces marched through the Town, without doing any injury, and were drawn up by Lord <hi>Tyrconnel</hi> on the other Side of it, in order to March further; the Militia followed them; only the Governor remain'd: At laſt he reſolved to March alſo, and to drive 2 or 300 of the Principal Priſoners before him; but while they were preparing for this, a falſe Alarm was ſpread, that a Party of Engliſh be<g ref="char:EOLhyphen"/>ing Landed at the Harbour, were juſt at the Towns end; it was too dusky to diſprove this by view, and they had not leiſure to ſend a Meſſenger, but in haſt ſhifted for themſelves.</p>
+            <p>The Proteſtants now began to look out, not know<g ref="char:EOLhyphen"/>ing well in what condition they were; but venturing to the Caſtle, they found Captain <hi>Farlow,</hi> who had been a Priſoner there, keeping Garriſon alone. Upon this, Captain <hi>Fitz-Gerald,</hi> and ſeveral others who had been Priſoners, went and ſtayed there all Night. Still we were very unſecure, and had no Arms. Early next Morning being <hi>Thurſday,</hi> the Proteſtants run a<g ref="char:EOLhyphen"/>bout to Roman Catholicks Houſes, demanding their Arms, who being quite diſpirited, deliver'd them with<g ref="char:EOLhyphen"/>out diſpute; but the <hi>Galway</hi> Priſoners and ſome other Rabble, committed Outrages in taking Arms.</p>
+            <p>By Six in the Morning the Biſhop of <hi>Meath,</hi> Dr. <hi>King,</hi> and other Principal Proteſtants form'd a Com<g ref="char:EOLhyphen"/>mittee
+<pb n="10" facs="tcp:101911:7"/>in the Caſtle, and ſent out Proclamations by beat of Drum, for regulating theſe diſorders, and form<g ref="char:EOLhyphen"/>ing a Proteſtant Militia; and ſent away an Expreſs to the King, of this Towns being at Liberty. This Ex<g ref="char:EOLhyphen"/>preſs found him Marching up to <hi>Dublin</hi> in two Lines, expecting to meet the Iriſh at <hi>Swords;</hi> and at the ſame time the News came of the Surrender of <hi>Drogheda,</hi> which he had left a Party to beſiege, and in which they had pinnion'd all the Proteſtants and Priſoners, and placed them under that part of the Wall which was to be battered; but this was not known till after the Surrender.</p>
+            <p>Till afternoon this <hi>Thurſday,</hi> we did not hear a word of the <hi>Engliſh</hi> Army; mean time we had Reports, that the Iriſh and French were coming back, and very near us, which gave a damp to our briskneſs; but this blowing over, and the certain account of the Engliſh Army being come, we now perceived our ſelves at Liberty. The Proteſtants ran about, ſaluting and em<g ref="char:EOLhyphen"/>bracing one another; and bleſſing God for this won<g ref="char:EOLhyphen"/>derful deliverance, as if they had been alive from the dead; the Streets were fill'd with Crowds and Shouts, and the poor Roman Catholicks now lay in the ſame terrors as we had done ſome few days before.</p>
+            <p>At Eight that Night one Troop of Dragoons came as a Guard to an Officer, that came to take charge of the Stores. It was impoſſible, the King himſelf com<g ref="char:EOLhyphen"/>ing after this, cou'd be welcom'd with equal joy as this one Troop; the Proteſtants hung about the Hor<g ref="char:EOLhyphen"/>ſes, and were ready to pull the Men off them, as they march'd up to the Caſtle.</p>
+            <pb n="11" facs="tcp:101911:7"/>
+            <p>Next Morning being <hi>Friday,</hi> the Duke of <hi>Ormond</hi> came in with a Party of Horſe; and the King being Encamped by <hi>Finglas,</hi> came on <hi>Sunday</hi> to St. <hi>Patricks</hi> Church, and heard a Sermon Preach'd by Dr. <hi>King,</hi> concerning the Power of God; of which, that which ſeemed to us greateſt upon Earth, mighty Armies was a faint Shadow. The King went back to his Camp to Dinner, not ſuffering any Soldiers to come into this Town, except a few for Guard. This laſt Week the Town has been fill'd with Officers from the Ar<g ref="char:EOLhyphen"/>my, and Inhabitants returning from <hi>England.</hi>
+            </p>
+            <p>I am told by one that viewed the Dead, that there was not above 1000 kill'd on both Sides, tho perhaps you may hear of greater Numbers, which is a won<g ref="char:EOLhyphen"/>derful thing, that ſo ſmall a loſs ſhould diſperſe the whole Iriſh Army, who ſeem'd to be blown away on<g ref="char:EOLhyphen"/>ly by a Wind from God; the main Body of them is ſuppos'd to be about <hi>Limerick,</hi> but the oppoſition they will give, will depend very much on the ſucceſs of the Fleets.</p>
+            <p>Yeſterday being the 10th, the King ſet out from <hi>Cromlin</hi> to <hi>Kilkenny;</hi> General <hi>Dowglas</hi> towards <hi>Athlone,</hi> and a ſmall Party along the Sea towards <hi>Wexford.</hi> The Iriſh have ravag'd the Country all the way in their Retreat; and God knows what Miſeries the poor Proteſtants, that are yet under their Power do endure. Some part of the Army it's ſaid will be ſent to be put aboard the <hi>Engliſh</hi> Fleet; and another part to <hi>Flan<g ref="char:EOLhyphen"/>ders.</hi> Great inquiſition is made after Roman Catho<g ref="char:EOLhyphen"/>licks Goods, to reprize the loſs the <hi>Engliſh</hi> have ſu<g ref="char:EOLhyphen"/>ſtained: But the Proteſtants who have ſuffer'd all this
+<pb n="12" facs="tcp:101911:8"/>time among them, ſeem to be much better temper'd, and more kindly inclin'd to their Enemies, then thoſe that come from your Side.</p>
+            <p>I ſhould have noted, that King <hi>James</hi> had Coin'd in this Country about two Millions in Braſs mony; the Half Crowns of which, are now cryed down to pence; yet this did not grate ſo heavily upon the People, as his late taking away all the Proteſtants Sta<g ref="char:EOLhyphen"/>ple Goods, Wool, Hides and Tallow, to ſend to <hi>France</hi> in exchange for Wine and Linnen for his Army. As for tann'd Leather, he took that away too, but it was for the uſe of his Army here, there being but ve<g ref="char:EOLhyphen"/>ry little in the Kingdom. The Revenue he rais'd o<g ref="char:EOLhyphen"/>therwiſe, was chiefly by Subſidy granted by Parliament; and a Contribution impos'd by Council, and the Rents of Abſentees Eſtates. The Cuſtoms were remitted, and the other Branches of the Revenue much neglected, the Collectors being fully taken up in making of Stores and Proviſions for the Army.</p>
+            <p>On <hi>Friday</hi> the 11th. The King March'd from <hi>Crum<g ref="char:EOLhyphen"/>lin</hi> towards <hi>Kilkenny,</hi> with a part of his Army; ano<g ref="char:EOLhyphen"/>ther part went towards <hi>Athlone,</hi> and a third by way of <hi>Bray</hi> towards <hi>Wexford;</hi> the Kings Horſe by this time (17th) are at <hi>Kilkenny,</hi> which its ſuppos'd will make but ſmall reſiſtance; moſt believe he will then take in <hi>Waterford</hi> before he goes further. We hear from <hi>Limerick,</hi> that the Enemy are together in thoſe parts about 25000 ſtrong, and Lord <hi>Tyrconnel</hi> with them. Brigadier <hi>Trelawny</hi> is Governor of this Town; Captain <hi>Fitz-Gerald</hi> Conſtable of the Caſtle: Biſhop of <hi>Meath,</hi> Lord <hi>Longford</hi> and ſeven others, are Commiſſio<g ref="char:EOLhyphen"/>ners for ſecuring of Rebels Goods and Eſtates, and leaſing
+<pb n="13" facs="tcp:101911:8"/>them for one Year. <hi>Longford</hi> is quite burnt and Lord <hi>Longford</hi>'s Houſe, by the Iriſh Garriſon when they quitted it: But Lord <hi>Granard</hi> having Arms, defended his own Houſe. People begin to come over from <hi>En<g ref="char:EOLhyphen"/>gland</hi> apace, but the <hi>Embargo</hi> and fear of the <hi>French</hi> will it's ſuppos'd now ſomewhat ſtop them. Our Pro<g ref="char:EOLhyphen"/>teſtants that have ſuffer'd here all the time, are gene<g ref="char:EOLhyphen"/>rally much better temper'd towards their Enemies, than thoſe that come over; and eſpecially the Army is very furious. I doubt the poor Proteſtants, which are in the Enemies Quarters will ſuffer ſeverely. What the <hi>French</hi> may be yet able to do, or what iſſue God may put to the miſeries of this Country he only knows. Proviſion was very ſcarce here while the Army lay about us; but now begins to be more plentiful; but that Stock is almoſt all deſtroyed; great quantities hav<g ref="char:EOLhyphen"/>ing been now at laſt driv'n away by the Iriſh.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
